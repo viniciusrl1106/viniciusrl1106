@@ -17,22 +17,24 @@ I'm a backend developer from Brazil with a background in SAP enterprise systems 
 
 **Languages:**
 
-![My Skills](https://skillicons.dev/icons?i=python,java,sql)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **Frameworks & Integration:**
 
-![My Skills](https://skillicons.dev/icons?i=flask)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 
 **Cloud & DevOps:**
 
-![My Skills](https://skillicons.dev/icons?i=azure)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 
 **Enterprise Systems:**
 
-![SAP S/4HANA](https://img.shields.io/badge/-SAP%20S%2F4HANA-0FAAFF?style=flat&logo=sap&logoColor=white)
-![SAP EWM](https://img.shields.io/badge/-SAP%20EWM-0FAAFF?style=flat&logo=sap&logoColor=white)
-![SAP WM](https://img.shields.io/badge/-SAP%20WM-0FAAFF?style=flat&logo=sap&logoColor=white)
-![Celonis](https://img.shields.io/badge/-Celonis%20%2F%20PQL-1A1A2E?style=flat&logoColor=white)
+[![SAP S/4HANA](https://img.shields.io/badge/-SAP%20S%2F4HANA-0FAAFF?style=flat&logo=sap&logoColor=white)](https://www.sap.com/products/erp/s4hana.html)
+[![SAP EWM](https://img.shields.io/badge/-SAP%20EWM-0FAAFF?style=flat&logo=sap&logoColor=white)](https://www.sap.com/products/scm/extended-warehouse-management.html)
+[![SAP WM](https://img.shields.io/badge/-SAP%20WM-0FAAFF?style=flat&logo=sap&logoColor=white)](https://help.sap.com/docs/SAP_ERP/SAP_ERP)
+[![Celonis](https://img.shields.io/badge/-Celonis%20%2F%20PQL-1A1A2E?style=flat&logoColor=white)](https://www.celonis.com/)
 
 ---
 
