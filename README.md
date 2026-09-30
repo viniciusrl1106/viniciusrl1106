@@ -1,6 +1,6 @@
 # Hello, I'm Vinicius 👋
 
-Backend & Cloud Developer | Python • Java • JavaScript • Flask — bridging enterprise systems (SAP S/4HANA, EWM/WM) with Python backend services and REST API integrations. 
+Backend & Cloud Developer | Python • JavaScript • Flask — bridging enterprise systems (SAP S/4HANA, EWM/WM) with Python backend services and REST API integrations. 
 
 I'm a backend developer from Brazil with a background in SAP enterprise systems (S/4HANA, EWM/WM) and mechanical engineering. I work with Python, REST APIs, and backend integrations connecting SAP to external full-stack applications, alongside SQL/PQL process mining in Celonis. I hold a degree in Mechanical Engineering from UFPR. I value precise, well-documented integrations and enjoy bridging functional business requirements with technical implementation — a mindset shaped by years translating SAP process needs into working backend solutions. Fluent in English and Portuguese, with basic German.
 
@@ -18,12 +18,16 @@ I'm a backend developer from Brazil with a background in SAP enterprise systems 
 **Languages:**
 
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **Frameworks & Integration:**
 
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+
+**Databases:**
+
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.mysql.com/](https://www.sqlite.org/))
 
 **Cloud & DevOps:**
 
